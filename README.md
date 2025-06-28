@@ -36,6 +36,21 @@ This is the official portfolio website of **Rukshan Samarasinghe**, a passionate
 
 ## 📁 Project Structure
 
+├── index.html # Main homepage
+├── contact.html # Contact section
+├── Assets/
+│ ├── css/
+│ │ ├── style.css
+│ │ ├── navbar.css
+│ │ └── responsive.css
+│ ├── js/
+│ │ ├── app.js
+│ │ ├── navbar.js
+│ │ ├── service-section.js
+│ │ └── testimonial.js
+│ └── Images/ # Images, Icons, GIFs
+├── jquery.js # jQuery Library
+└── README.md # This file
 
 ---
 
